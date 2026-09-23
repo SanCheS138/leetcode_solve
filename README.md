@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SanCheS138/leetcode_solve/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanCheS138/leetcode_solve/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SanCheS138/leetcode_solve/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
