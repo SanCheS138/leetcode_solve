@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/SanCheS138/leetcode_solve/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SanCheS138/leetcode_solve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanCheS138/leetcode_solve/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/SanCheS138/leetcode_solve/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/SanCheS138/leetcode_solve/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SanCheS138/leetcode_solve/tree/master/0592-fraction-addition-and-subtraction) |
 ## Trie
