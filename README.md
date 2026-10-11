@@ -32,6 +32,7 @@
 | [0014-longest-common-prefix](https://github.com/SanCheS138/leetcode_solve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanCheS138/leetcode_solve/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanCheS138/leetcode_solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/SanCheS138/leetcode_solve/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SanCheS138/leetcode_solve/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/SanCheS138/leetcode_solve/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SanCheS138/leetcode_solve/tree/master/0592-fraction-addition-and-subtraction) |
