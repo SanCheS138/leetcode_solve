@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
