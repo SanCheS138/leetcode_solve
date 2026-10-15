@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/SanCheS138/leetcode_solve/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SanCheS138/leetcode_solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SanCheS138/leetcode_solve/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SanCheS138/leetcode_solve/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
