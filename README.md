@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -142,4 +143,20 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanCheS138/leetcode_solve/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
