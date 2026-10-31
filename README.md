@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SanCheS138/leetcode_solve/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
 ## Greedy
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
