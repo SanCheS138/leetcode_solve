@@ -5,4 +5,4 @@ class Solution:
         if arr % 2 ==1:
             return med[arr//2]
         else:
-            return (med[(arr // 2) - 1] + med[arr // 2]) / 2.0
+            return (med[(arr//2)-1]+med[arr//2])/2
