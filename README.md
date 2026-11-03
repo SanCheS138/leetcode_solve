@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SanCheS138/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SanCheS138/leetcode_solve/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SanCheS138/leetcode_solve/tree/master/0592-fraction-addition-and-subtraction) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SanCheS138/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
