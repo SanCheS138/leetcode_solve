@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SanCheS138/leetcode_solve/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SanCheS138/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -100,6 +101,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanCheS138/leetcode_solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
