@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SanCheS138/leetcode_solve/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanCheS138/leetcode_solve/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SanCheS138/leetcode_solve/tree/master/0035-search-insert-position) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanCheS138/leetcode_solve/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanCheS138/leetcode_solve/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanCheS138/leetcode_solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SanCheS138/leetcode_solve/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanCheS138/leetcode_solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanCheS138/leetcode_solve/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanCheS138/leetcode_solve/tree/master/0016-3sum-closest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
