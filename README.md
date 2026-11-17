@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanCheS138/leetcode_solve/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SanCheS138/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SanCheS138/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SanCheS138/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SanCheS138/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
