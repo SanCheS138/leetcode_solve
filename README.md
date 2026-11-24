@@ -19,6 +19,7 @@
 | [0040-combination-sum-ii](https://github.com/SanCheS138/leetcode_solve/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanCheS138/leetcode_solve/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanCheS138/leetcode_solve/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SanCheS138/leetcode_solve/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanCheS138/leetcode_solve/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SanCheS138/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -41,6 +42,7 @@
 | [0066-plus-one](https://github.com/SanCheS138/leetcode_solve/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SanCheS138/leetcode_solve/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SanCheS138/leetcode_solve/tree/master/0592-fraction-addition-and-subtraction) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanCheS138/leetcode_solve/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SanCheS138/leetcode_solve/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanCheS138/leetcode_solve/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanCheS138/leetcode_solve/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -201,4 +204,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanCheS138/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanCheS138/leetcode_solve/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SanCheS138/leetcode_solve/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
